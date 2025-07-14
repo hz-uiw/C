@@ -1,0 +1,4 @@
+﻿  C02.cpp
+C:\Users\kwonm\OneDrive\바탕 화면\C\C02\C02.cpp(15,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kwonm\OneDrive\바탕 화면\C\C02\C02.cpp(27,73): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C02.vcxproj -> C:\Users\kwonm\OneDrive\바탕 화면\C\C02\x64\Debug\C02.exe
